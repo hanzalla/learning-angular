@@ -1,0 +1,37 @@
+mat-toolbar{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: #f7f7f7;
+
+}
+mat-icon:hover{
+    cursor: pointer;
+}
+ul li{
+    list-style:none;
+}
+button{
+    border:0;
+    outline: none;
+    background: transparent;
+}
+button:hover{
+    cursor: pointer;
+}
+
+.user{
+    position: absolute;
+    left: 82%;
+    top: 0.3rem;
+    font-size: 18px;
+    margin: 0.5rem;
+    border-bottom: 1px solid #475921;
+    /* border-radius: 5px; */
+}
+.user-image{
+    margin-right: 0.2rem;
+    border-radius: 80%;
+    width: 35px;
+    height: auto;
+}

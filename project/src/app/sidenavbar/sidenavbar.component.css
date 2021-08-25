@@ -1,0 +1,38 @@
+
+.heading{
+    /* text-align: center; */
+    text-transform: capitalize !important;
+    margin: 1.5rem;
+}
+.mat-divider{
+    border-bottom: 2px solid #fff;
+}
+.heading img{
+    /* position: absolute; */
+    width: 35%;
+    height: 50%;
+}
+.heading h1{
+    position: absolute;
+    top: 4%;
+    left: 40%;
+    right: 45%;
+}
+.mat-icon{
+    margin: 0.5rem;
+}
+.mat-nav-list h2{
+    text-transform: uppercase;
+    margin-left: 1rem;
+    font-size: 44px;
+    color:aliceblue;
+    font-size: 1rem;
+}
+.nav-list-item{
+    font-size: 0.8rem;
+    height: 44px !important;
+    
+}
+.nav-list-item:hover{
+    background: #fff !important;
+}
