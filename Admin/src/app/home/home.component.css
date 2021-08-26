@@ -1,0 +1,27 @@
+
+
+.mat-card{
+    background-color:rgb(71, 89, 3)  ;
+    border-radius: 0%;
+    height: 2.6rem;
+    position: relative;
+
+}
+.center-text{
+    width: 95%;
+    height: 77%;
+    border-radius: 10px;
+    margin-top: -2rem;
+    background:#F7F7F7;
+    color: #000;
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+}
+mat-card-content{
+    /* min-height: calc(100vh-175px); */
+    font-size: 2rem;
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
