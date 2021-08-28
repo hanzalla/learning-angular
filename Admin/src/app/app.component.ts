@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent implements OnInit {
   title = 'Admin Dashboard';
-  sideBarOpen = true;
+  sideBarOpen = false;
 
 
   ngOnInit() { }
